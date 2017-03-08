@@ -1,3 +1,8 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
 body{
 	margin: 0px;
 	//padding: 20px 100px;
@@ -68,7 +73,7 @@ padding: 40px 200px;
 color: #000;
 }
 
-#footer {
+footer {
 	background-color: #D98218;
 	margin: 0px;
 	padding: 25px 0px;
