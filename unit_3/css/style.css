@@ -1,0 +1,108 @@
+body{
+	margin: 0px;
+	//padding: 20px 100px;
+font-family: helvetica;
+text-align: center;
+color: #fff;
+}
+
+#main {
+	background: url(../images/wood_background.jpeg);
+	background-size: cover;
+	padding: 150px 0px;
+}
+
+
+h1{
+	font-family: Roboto;
+	text-align: center;
+letter-spacing: 5px!important;
+    font-size: 42px;
+    	text-transform: uppercase;
+	color: #fff;
+}
+
+h2{
+	font-family: Roboto;
+	font-size: 32px;
+	text-align: center;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	color: #BFBAA8;
+	margin-bottom: 10px;
+}
+
+#slogan {
+	font-family: Roboto;
+	font-style: oblique;
+	text-align: center;
+	letter-spacing: 1px;
+	font-size: 20px;
+	color: #fff;
+}
+p{
+	font-family: Roboto;
+	font-size: 18px;
+	line-height: 24px;
+	font-weight: 400px;
+	color: #000;
+
+}
+
+ul {
+	text-align: center;
+	font-family: Roboto;
+	list-style-type: none;
+}
+
+a{
+	color: #fff;
+}
+
+a:hover{
+	color: #888888;
+}
+
+#aboutSection{
+padding: 40px 200px;
+color: #000;
+}
+
+#footer {
+	background-color: #D98218;
+	margin: 0px;
+	padding: 25px 0px;
+	font-size: 12px!important;
+	color: #fff;
+}
+
+.smallfont{
+	font-size: 12px !important;
+	line-height:16px;
+	color: #fff;
+}
+
+.smallfontGrey{
+	font-size: 12px !important;
+	line-height:16px;
+	color:#6e6e6e;
+	padding-top: 0px;
+	margin-bottom: 30px;
+}
+
+
+#shopSection{
+// display: block;
+text-align: center;
+margin-top: 100px;
+}
+
+
+.twocol {
+background-color: #323232;
+margin: 10px;
+max-width: 300px;
+display: inline-block;
+vertical-align: top;
+
+}

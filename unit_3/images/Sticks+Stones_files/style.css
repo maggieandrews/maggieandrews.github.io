@@ -1,0 +1,41 @@
+body{
+	padding: 90px 90px;
+background: url(../images/kitchen.jpg);
+background-size: cover;
+font-family: helvetica;
+}
+h1{
+	font-family: helvetica;
+	text-align: center;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+#slogan {
+	font-family: helvetica;
+	text-align: center;
+	letter-spacing: 1px;
+	font-size: 20px;
+	color: #fff;
+}
+p{
+	font-family: helvetica;
+	text-align: center;
+	font-size: 16px;
+	line-height: 20px;
+	font-weight: 400px;
+	color: #fff;
+
+}
+
+ul {
+	text-align: center;
+	font-family: helvetica;
+	 list-style-type: none;
+
+}
+
+#section2{
+padding: 40px 200px;
+}
