@@ -25,6 +25,7 @@ nav{
 
 a.navlinks {
     margin: 0 32px;
+    border-bottom: 2px solid #fff; 
     	
 
 }
