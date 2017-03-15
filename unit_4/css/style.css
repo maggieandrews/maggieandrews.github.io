@@ -1,0 +1,178 @@
+//fonts
+@import url('https://fonts.googleapis.com/css?family=Diplomata+SC|Oswald|Anton');
+
+//element selectors
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	margin: 0px;
+	//padding: 20px 100px;
+font-family: 'Oswald', sans-serif;
+text-align: center;
+color: #fff;
+font-size: 16px; 
+
+}
+
+main {
+	background: url(../images/wood_background.jpeg);
+}
+
+nav{
+	padding-top:5px;
+}
+
+
+
+h1{
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+ letter-spacing: 5px!important;
+    font-size: 42px;
+    text-transform: uppercase;
+	color: #fff;
+}
+
+h2{
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	letter-spacing: .1em;
+	text-transform: uppercase;
+	color: #BFBAA8;
+	margin-bottom: 10px;
+}
+
+
+
+p{
+
+	font-family: 'Oswald', sans-serif;
+	// font-size: 1em;
+	line-height: 1.5em;
+	font-weight: 400px;
+	color: #000;
+	// width: 30em;
+
+
+}
+
+ul {
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	list-style-type: none;
+}
+
+a{
+	color: #fff;
+	text-decoration: none;
+	border-bottom: 1px solid #fff;
+	padding-bottom: 2px;
+}
+
+a:hover{
+	color: #000;
+}
+
+h4{
+	font-size: 16px !important;
+	line-height:1.5em;
+	font-weight: 100;
+	color:#BFBAA8;
+	padding-top: 0px;
+	margin-bottom: 30px;
+}
+
+hr {
+	border: none;
+	height: 3px;
+	background-color: #BFBAA8;
+	width: 2em;
+	margin: 1em auto;
+
+}
+
+footer {
+	background-color: #D98218;
+	margin: 0px;
+	padding: 25px 0px;
+	font-size: 12px!important;
+	letter-spacing: 1px;
+	color: #fff;
+}
+
+// CLASSES
+
+.navlinks{
+	font-size: 1em;
+	color: #fff;
+	margin: 0 32px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-decoration: none;
+	border-bottom: 2px solid #fff;
+	padding-bottom: 2px;
+
+}
+
+.navlinks:hover{
+	color: #BFBAA8;
+}
+
+.smallfont{
+	font-size: 12px !important;
+	line-height:1.5em;
+	color: #fff;
+}
+.twocol {
+background-color: #323232;
+margin: 10px;
+max-width: 300px;
+display: inline-block;
+ vertical-align: middle;
+ background-color: #444;
+
+}
+
+
+//ID's
+
+#copyright{
+
+	margin-top: 2em;
+	font-weight: 100;
+	color: #BFBAA8;
+}
+
+#shopSection{
+// display: block;
+text-align: center;
+margin-top: 100px;
+}
+
+
+
+
+#aboutSection{
+padding: 40px 200px;
+color: #000;
+width: 30em;
+margin: 2em auto;
+}
+
+#main {
+	background-size: cover;
+			padding: 150px 0px;
+
+}
+
+#slogan {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;
+	text-align: center!important;
+	letter-spacing: 1px;
+	font-size: 20px;
+	color: #fff;
+}
