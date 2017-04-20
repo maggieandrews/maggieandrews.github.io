@@ -115,25 +115,6 @@ ul {
 	list-style-type: none;
 }
 
-.icon-img {
-	margin-bottom: 10px;
-}
-
-.button {
-color: #D98218;
-border: solid 2px #D98218;
-padding: 5px 10px;
-
-}
-
-.button:hover{
-border: solid 2px #000;
-}
-
-.buttonDIV {
-margin-top: 2em;
-}
-
 a{
 	color: #fff;
 	text-decoration: none;
@@ -181,6 +162,27 @@ div, section {
 
 // CLASSES
 
+
+.icon-img {
+	margin-bottom: 10px;
+}
+
+.button {
+color: #D98218;
+border: solid 2px #D98218;
+padding: 5px 10px;
+
+}
+
+.button:hover{
+border: solid 2px #000;
+}
+
+.buttonDIV {
+margin-top: 2em;
+}
+
+
 .wrapper {
     margin: auto;
 	width: 1026px;
@@ -221,6 +223,20 @@ display: inline-block;
 //background-color: #444;
 }
 
+.section4 {
+	margin: 30px 0 60px 0;
+}
+
+
+.ctaBuckets{
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
 
 //ID's
 
@@ -253,9 +269,6 @@ max-width: 1260px;
 
 }
 
-.section4 {
-	margin: 30px 0 60px 0;
-}
 
 #subfooter h2{
 	color: #000;
@@ -309,15 +322,6 @@ background-size: cover;
 	color: #fff;
 }
 
-
-.ctaBuckets{
-    padding: 20px;
-    margin: 20px;
-    width: 300px;
-    display: inline-block;
-    vertical-align: top;
-
-}
 
 
 
