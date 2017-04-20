@@ -281,9 +281,9 @@ color: #000;
 
 
 #aboutImg {
-background-image: url(../images/workshop.JPEG);
+background-image: url(../images/workshop.jpeg);
 background-size: cover;
-	padding: 10em 2em ;
+	padding: 150px 0 ;
 	background-position: top; 
 	margin: 60px 0;
 
